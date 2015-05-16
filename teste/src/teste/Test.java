@@ -7,6 +7,7 @@ public class Test {
 		System.err.println("/ha");
 		
 		
+		
 		String b = "teste";
 		Ha<String> ha = (a) -> a.concat(a);
 	
